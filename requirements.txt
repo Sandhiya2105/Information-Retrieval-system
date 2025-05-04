@@ -1,7 +1,8 @@
 python-dotenv
-google-generativeai
 langchain
 PyPDF2
 faiss-cpu
 streamlit
+sentence-transformers
+huggingface-hub
 -e .
